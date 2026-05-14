@@ -15,10 +15,15 @@ This is a raw resume data file. When given a job description or target position,
 
 ## About
 - Computer Science student, Hurghada University (2024–2028)
+- Based in Hurghada, Egypt
+- Got into programming through competitive programming in C++ (grade 10) — strong problem-solving and algorithmic thinking foundation
 - Focuses on frontend development and UI/UX design
 - Builds responsive web interfaces and brand identities
 - Uses AI-assisted design tools in workflow
 - Combines design thinking with front-end implementation
+- Working across the stack: backend (.NET, C#, SQL Server) and frontend (HTML, CSS, JS)
+- Expanding into full-stack JS development with Node.js and Express
+- Familiar with REST API and MVC patterns
 
 ---
 
@@ -40,6 +45,7 @@ This is a raw resume data file. When given a job description or target position,
 
 ### Frontend
 - HTML, CSS, JavaScript (ES6+)
+- TypeScript
 - Responsive Web Design
 - React.js (learning)
 
@@ -56,10 +62,24 @@ This is a raw resume data file. When given a job description or target position,
 - v0.dev
 - ChatGPT (design ideas & dev workflow)
 
+### Backend
+- .NET, C#
+- SQL Server
+- Node.js (learning)
+- Express (learning)
+- REST API
+- MVC Pattern
+
+### Languages
+- C++ (competitive programming background)
+- JavaScript (ES6+)
+- Python
+
 ### Tools & Concepts
 - Git, GitHub
 - UI/UX Principles
 - Web Design
+- Lovable (AI app builder)
 
 ---
 
@@ -74,6 +94,11 @@ This is a raw resume data file. When given a job description or target position,
 - Designed and fully developed a responsive coffee shop website from scratch
 - Mobile-first layout: clear sections, readable typography, user-friendly navigation
 - Applied practical web design principles
+
+### Travelanza — Travel Agency Website
+- Tech: React, TypeScript, HTML, CSS, JS, Lovable
+- Responsive website for a travel agency
+- Features: services showcase, client reviews, contact info
 
 ### Personal Portfolio Website
 - URL: patrickmarcus.vercel.app

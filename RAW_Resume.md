@@ -107,6 +107,14 @@ This is a raw resume data file. When given a job description or target position,
 - Showcases projects, skills, contact info
 - Design-to-code workflow supported by AI tools
 
+### Brainstorm Canvas — Interactive Idea Mapping Web App
+- URL: patrick856.github.io/Brainstorm_Canvas/
+- Tech: HTML, CSS, JavaScript, LocalStorage, GitHub Pages, Claude, ChatGPT
+- Built an interactive node-based brainstorming canvas with elastic physics
+- Features: draggable nodes, connect/unconnect toggle, centered main node, auto-save, export/import, keyboard shortcuts
+- Designed responsive toolbar and mobile-friendly interaction controls
+- Used Claude and ChatGPT for AI-assisted development, physics iteration, UX refinement, and code debugging
+
 ---
 
 ## Achievements

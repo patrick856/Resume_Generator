@@ -60,7 +60,8 @@ This is a raw resume data file. When given a job description or target position,
 ### AI Tools
 - Stitch AI
 - v0.dev
-- ChatGPT (design ideas & dev workflow)
+- Claude.ai (design ideas & dev workflow)
+- Bolt.new
 
 ### Backend
 - .NET, C#
@@ -84,6 +85,14 @@ This is a raw resume data file. When given a job description or target position,
 ---
 
 ## Projects
+
+### SilentRose.Studio — Studio Website
+- URL: [silentrose.studio](https://silent-rose-studio-website.vercel.app/)
+- Tech: React, TypeScript, Vite, Tailwind CSS
+- Designed and developed the official website for my own creative studio
+- Showcases services, selected work, studio values, process, and a contact form (Formspree)
+- Reinforces brand identity through a restrained palette (forest, cream, crimson), geometric motifs, and typography (Unbounded + DM Sans)
+- Developed with the assistance of agentic AI tools for accelerated iteration and implementation
 
 ### Pleni Perfume — Brand Identity & Website
 - Built complete brand identity from scratch
@@ -114,6 +123,16 @@ This is a raw resume data file. When given a job description or target position,
 - Features: draggable nodes, connect/unconnect toggle, centered main node, auto-save, export/import, keyboard shortcuts
 - Designed responsive toolbar and mobile-friendly interaction controls
 - Used Claude and ChatGPT for AI-assisted development, physics iteration, UX refinement, and code debugging
+
+---
+
+## Ventures
+
+### SilentRose Studio — Freelance Design & Dev Studio
+- Founded a personal brand offering frontend development and UI/UX design services
+- Active Instagram presence; website live at https://silent-rose-studio-website.vercel.app/
+- Services: Web Design, Web Development, UI Designs, Design Systems, landing pages
+- Early-stage — currently building portfolio client base
 
 ---
 

@@ -11,6 +11,7 @@ This is a raw resume data file. When given a job description or target position,
 - Email: PatrickHani.Dev@gmail.com
 - GitHub: github.com/patrick856
 - Portfolio: patrickmarcus.vercel.app
+- Linkedin: https://www.linkedin.com/in/patrick-marcus/
 
 ---
 

@@ -96,16 +96,19 @@ Output format: Generate as a PDF file. If PDF is not possible, fall back to DOCX
 - Developed with the assistance of agentic AI tools for accelerated iteration and implementation
 
 ### Pleni Perfume — Brand Identity & Website
+- URL: https://pleni-perfume.vercel.app/
 - Built complete brand identity from scratch
 - Designed website in Figma; used Stitch AI for layout inspiration
 - Clean product presentation, responsive layout, brand-to-website consistency
 
 ### Cloud Coffee — Coffee Shop Website
+- URL: https://cloud-psi-three.vercel.app/
 - Designed and fully developed a responsive coffee shop website from scratch
 - Mobile-first layout: clear sections, readable typography, user-friendly navigation
 - Applied practical web design principles
 
 ### Travelanza — Travel Agency Website
+- URL: https://travelanza-website.vercel.app/
 - Tech: React, TypeScript, HTML, CSS, JS, Lovable
 - Responsive website for a travel agency
 - Features: services showcase, client reviews, contact info

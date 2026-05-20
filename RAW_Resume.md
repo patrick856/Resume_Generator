@@ -2,7 +2,7 @@
 
 ## ⚠️ AI Instructions
 This is a raw resume data file. When given a job description or target position, generate a tailored resume using only the relevant information from this file. Do NOT include everything — select and prioritize only what fits the role. Adapt wording to match the job's language and focus. Output should be clean, concise, and professional. Never add fabricated experience or skills not listed here.
-Output format: Generate as a PDF file. If PDF is not possible, fall back to DOCX.
+
 
 ---
 

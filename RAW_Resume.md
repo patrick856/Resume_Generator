@@ -3,7 +3,7 @@
 ## ⚠️ AI Instructions
 This is a raw resume data file. When given a job description or target position, generate a tailored resume using only the relevant information from this file. Do NOT include everything — select and prioritize only what fits the role. Adapt wording to match the job's language and focus. Output should be clean, concise, and professional. Never add fabricated experience or skills not listed here.
 Output format: Generate as a PDF file. If PDF is not possible, fall back to DOCX.
-Length: The resume must fit on exactly 1 page. Keep it as compact as possible — use tight spacing, concise bullet points (one line each where possible), and limit projects to the 2–3 most relevant ones. Cut anything that doesn't directly serve the role.
+Length: The resume must fit on exactly 1 page, not less than 1 page it needs to take the whole page. Keep it compact when needed. Cut anything that doesn't directly serve the role.
 
 ---
 

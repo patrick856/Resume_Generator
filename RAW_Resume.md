@@ -35,7 +35,7 @@ This is a raw resume data file. When given a job description or target position,
 ---
 
 ## Work Experience
-- **Operations & Automation Assistant** — Travelanza | Oct 2025–Present
+- **Travel Operations Coordinator** — Travelanza | Oct 2025–Present
   - Python automation scripts for internal file processing and management
   - Reduced manual effort, improved workflow efficiency
   - Client documentation and booking workflow coordination
@@ -80,13 +80,18 @@ This is a raw resume data file. When given a job description or target position,
 
 ### Tools & Concepts
 - Git, GitHub
-- UI/UX Principles
-- Web Design
 - Lovable (AI app builder)
 
 ---
 
 ## Projects
+
+### Personal Portfolio Website
+- URL: patrickmarcus.vercel.app
+- Built with HTML / CSS / JavaScript
+- Fully responsive, clean UI, smooth navigation
+- Showcases projects, skills, contact info
+- Design-to-code workflow supported by AI tools
 
 ### SilentRose.Studio — Studio Website
 - URL: [silentrose.studio](https://silent-rose-studio-website.vercel.app/)
@@ -113,13 +118,6 @@ This is a raw resume data file. When given a job description or target position,
 - Tech: React, TypeScript, HTML, CSS, JS, Lovable
 - Responsive website for a travel agency
 - Features: services showcase, client reviews, contact info
-
-### Personal Portfolio Website
-- URL: patrickmarcus.vercel.app
-- Built with HTML / CSS / JavaScript
-- Fully responsive, clean UI, smooth navigation
-- Showcases projects, skills, contact info
-- Design-to-code workflow supported by AI tools
 
 ### Brainstorm Canvas — Interactive Idea Mapping Web App
 - URL: patrick856.github.io/Brainstorm_Canvas/
